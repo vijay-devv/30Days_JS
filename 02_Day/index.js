@@ -1,4 +1,4 @@
-// task 1
+// // task 1
 // const a=10
 // const b=20
 
@@ -8,7 +8,7 @@
 // console.log(a/b);
 // console.log(a%b);
 
-// task2
+// // task2
 
 // var  num=5
 
@@ -17,7 +17,7 @@
 
 // console.log(num);
 
-// task 3
+// // task 3
 
 // let num1 = 10;
 // let num2 = 5;
@@ -88,8 +88,8 @@
 // }
 
 
-let num=10;
+// let num=10;
 
-const isprime =(num/2)?"no is primme":"no is not prime";
+// const isprime =(num/2)?"no is primme":"no is not prime";
 
-console.log(isprime);
+// console.log(isprime);
